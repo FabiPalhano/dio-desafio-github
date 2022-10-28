@@ -1,0 +1,14 @@
+INTRODUÇÃO AO GITHUB
+
+- 
+git config --global --unset user.email
+
+git config --global --unset user.nickname
+
+- setar novamente o email e nickname
+git config --global user.email "email@email.com"
+
+git config --global user.nickname escreverNickName
+
+
+

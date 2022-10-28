@@ -1,0 +1,14 @@
+OBJETOS FUNDAMENTAIS
+
+- BLOBS
+objeto
+'blob \0 conteudo escrito'
+contem metadados do git
+
+- TREE
+armazenam blobs
+\0 blob sha1 arquivo.txt
+
+- COMMIT
+aponta para uma árvore, um parente, um autor, uma mensagem
+monta-se uma linha do tempo
